@@ -1,0 +1,70 @@
+body {
+    background: rgb(17, 17, 17);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container {
+    width: 50%;
+    margin-top: 5%;
+    margin-left:10%
+}
+
+h3{
+    position: absolute;
+    top: 0;
+    left: 44%;
+}
+
+/* buttons styles */
+
+.button1 {
+    margin-top: 5%;
+    margin-left: 41.5%;
+}
+
+.button2 {
+    margin-top: 5%;
+}
+
+.button3 {
+    margin-top: 5%;
+}
+
+.button4 {
+    margin-top: 2%;
+    margin-left: 41.6%;
+}
+
+.button5 {
+    margin-top: 2%;
+    margin-left: 0.7%;
+}
+
+.button6 {
+    margin-top: 2%;
+    margin-left: 41.6%;
+}
+
+.button7 {
+    margin-top: 2%;
+    margin-left: 3.7%;
+}
+
+.button8 {
+    margin-top: 1%;
+    margin-left: 41.6%;
+}
+
+.button9 {
+    margin-top: 1%;
+    margin-left: 2.5%;
+}
+
+/* post styles */
+
+.ulPost {
+    width: 50%;
+    margin-top: 6%;
+}
